@@ -1,0 +1,1 @@
+TravelAssistant is an AI-driven multi-agent travel planner developed with CrewAI. It demonstrates how different LLM agents can work together to understand user travel needs, create clear and organized plans, and even simulate flight reservations through tailored Python tools.
